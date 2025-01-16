@@ -1,4 +1,4 @@
-Graphyyyyyyyy
+Graphyyyyyyyy : 
 This project is a graphical interface for plotting mathematical functions, calculating derivatives, and integrating functions over a specified interval. Inspired by tools like Desmos, it is built using Python with libraries like matplotlib, sympy, and tkinter . 
 -Features : 
 *Plot Multiple Functions: Enter multiple mathematical expressions to visualize their plots.
@@ -32,9 +32,9 @@ Display Graph: Click "Afficher" to generate the plot.
 #Screenshots :
 ![image](https://github.com/user-attachments/assets/a364b277-f600-493f-b161-1d47d89ddd3a)
 #Future Improvements : 
-Add support for 3D plotting.
-Enhance error messages for unsupported functions or invalid inputs.
-Save plotted graphs as image files.
+-Add support for 3D plotting.
+-Enhance error messages for unsupported functions or invalid inputs.
+-Save plotted graphs as image files.
 
 
   
